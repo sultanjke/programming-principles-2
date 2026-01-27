@@ -4,20 +4,27 @@
 	<img src="assets/KBTU.avif" alt="University Logo" width="220" />
 </p>
 
+---
+
 ## Course Overview
 
-**Course:** Programming Principles II
-**Credits:** 4 (2 lecture / 0 lab / 2 practice)
-**Prerequisite:** Programming Principles I
-**Duration:** 15 weeks
+- **Course:** Programming Principles II
+- **Credits:** 4 (2 lecture / 0 lab / 2 practice)
+- **Prerequisite:** Programming Principles I
+- **Duration:** 15+ weeks
+
+
+---
 
 ## Python Problem Sets
 
 > **_NOTE:_** It is provided solely for **educational** purposes and **exam preparation**. You may check the solutions if you are genuinely struggling or need guidance, but do not abuse by copying or submitting this collected work.
 
-This repository contains all laboratory works for the course **Programming Principles 2** at **Kazakh-British Technical University** for the Spring 2026 semester, aligned with the official syllabus. Each problem sets includes solutions and links to the E-judge platform where tasks were completed.
+This repository contains all problem sets for the course **Programming Principles 2** at **Kazakh-British Technical University** for the Spring 2026 semester, aligned with the official syllabus. Each problem sets includes solutions and links to the E-judge platform where tasks were completed.
 
 Head to the - [Syllabus](https://docs.google.com/document/d/1cMMQxDmXUp_Vz5hBvPIyaz8gneluNDofKBJlsIFEOWw/edit?usp=sharing), to meet the course plan.
+
+---
 
 ## Table of Contents
 
