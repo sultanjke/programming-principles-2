@@ -43,8 +43,6 @@ Head to the - [Syllabus](https://docs.google.com/document/d/1cMMQxDmXUp_Vz5hBvPI
 
 - Python 3.x
 - Git & GitHub
-- Pygame
-- PostgreSQL
 - VS Code (recommended)
 
 ---
