@@ -30,7 +30,7 @@ Head to the - [Syllabus](https://docs.google.com/document/d/1cMMQxDmXUp_Vz5hBvPI
 
 | Lab № | Lecture Topic | Description | GitHub URL | E-judge Platform |
 |------|---------------|-------------|------------|------------------|
-| **1** | **L1. Python Fundamentals & Git** | Python syntax, variables, data types, numbers, strings, operators, conditions, basic Git workflow | - | http://ejudge.kz/new-client?contest_id=701 |
+| **1** | **L1. Python Fundamentals & Git** | Python syntax, variables, data types, numbers, strings, operators, conditions, basic Git workflow | https://github.com/sultanjke/pp2-problem-sets/tree/main/Problem%20Set%2001 | http://ejudge.kz/new-client?contest_id=701 |
 | **2** | **L2. Collections & Loops** | for/while loops, lists, tuples, sets, dictionaries, iteration over collections | - | http://ejudge.kz/new-client?contest_id=702 |
 | **3** | **L3. Functions & OOP Basics** | Functions, parameters, return values, lambda, classes, objects, inheritance | - | http://ejudge.kz/new-client?contest_id=703 |
 | **4** | **L4. Advanced Python Constructs** | Iterators, generators, scope rules, modules, datetime, math, JSON parsing/serialization | - | http://ejudge.kz/new-client?contest_id=704 |
