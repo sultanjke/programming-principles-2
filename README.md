@@ -31,7 +31,7 @@ Head to the - [Syllabus](https://docs.google.com/document/d/1cMMQxDmXUp_Vz5hBvPI
 | Lab № | Lecture Topic | Description | GitHub URL | E-judge Platform | Deadline |
 |------|---------------|-------------|------------|------------------|------------|
 | **1** | **L1. Python Fundamentals & Git** | Python syntax, variables, data types, numbers, strings, operators, conditions, basic Git workflow | https://github.com/sultanjke/pp2-problem-sets/tree/main/Problem%20Set%2001 | http://ejudge.kz/new-client?contest_id=701 | 31.01 23:59 |
-| **2** | **L2. Collections & Loops** | for/while loops, lists, tuples, sets, dictionaries, iteration over collections | - | http://ejudge.kz/new-client?contest_id=702 | 07.02 23:59 |
+| **2** | **L2. Collections & Loops** | for/while loops, lists, tuples, sets, dictionaries, iteration over collections | https://github.com/sultanjke/pp2-problem-sets/tree/main/Problem%20Set%2002 | http://ejudge.kz/new-client?contest_id=702 | 07.02 23:59 |
 | **3** | **L3. Functions & OOP Basics** | Functions, parameters, return values, lambda, classes, objects, inheritance | - | http://ejudge.kz/new-client?contest_id=703 | 14.02 23:59 |
 | **4** | **L4. Advanced Python Constructs** | Iterators, generators, scope rules, modules, datetime, math, JSON parsing/serialization | - | http://ejudge.kz/new-client?contest_id=704 | 28.02 23:59 |
 | **5** | **L5. Regular Expressions** | Regex syntax, matching, searching, replacing, validation, efficient pattern usage | - | http://ejudge.kz/new-client?contest_id=705 | 07.03 23:59 |
