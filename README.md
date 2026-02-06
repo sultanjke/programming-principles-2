@@ -10,7 +10,7 @@
 
 - **Course:** Programming Principles II
 - **Credits:** 4 (2 lecture / 0 lab / 2 practice)
-- **Prerequisite:** Programming Principles I
+- **Prerequisite:** [Programming Principles I](https://github.com/sultanjke/programming-principles-1)
 - **Duration:** 15+ weeks
 
 
