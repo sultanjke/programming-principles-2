@@ -32,7 +32,7 @@ Head to the - [Syllabus](https://docs.google.com/document/d/1cMMQxDmXUp_Vz5hBvPI
 |------|---------------|-------------|------------|------------------|------------|
 | **1** | **L1. Python Fundamentals & Git** | Python syntax, variables, data types, numbers, strings, operators, conditions, basic Git workflow | 31.01 23:59 | https://github.com/sultanjke/pp2-problem-sets/tree/main/Problem%20Set%2001 | http://ejudge.kz/new-client?contest_id=701 |
 | **2** | **L2. Collections & Loops** | for/while loops, lists, tuples, sets, dictionaries, iteration over collections | 07.02 23:59 | https://github.com/sultanjke/pp2-problem-sets/tree/main/Problem%20Set%2002 | http://ejudge.kz/new-client?contest_id=702 |
-| **3** | **L3. Functions & OOP Basics** | Functions, parameters, return values, lambda, classes, objects, inheritance | 14.02 23:59 | - | http://ejudge.kz/new-client?contest_id=703 |
+| **3** | **L3. Functions & OOP Basics** | Functions, parameters, return values, lambda, classes, objects, inheritance | 14.02 23:59 | https://github.com/sultanjke/programming-principles-2/tree/main/Problem%20Set%2003 | http://ejudge.kz/new-client?contest_id=703 |
 | **4** | **L4. Advanced Python Constructs** | Iterators, generators, scope rules, modules, datetime, math, JSON parsing/serialization | 28.02 23:59 | - | http://ejudge.kz/new-client?contest_id=704 |
 | **5** | **L5. Regular Expressions** | Regex syntax, matching, searching, replacing, validation, efficient pattern usage | 07.03 23:59 | - | http://ejudge.kz/new-client?contest_id=705 |
 | **6** | **L6. Built-ins & File System** | Python built-in functions, map/filter/zip, file I/O, directory operations, OS/pathlib | 14.03 23:59 | - | http://ejudge.kz/new-client?contest_id=706 |
