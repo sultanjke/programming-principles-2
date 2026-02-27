@@ -1,3 +1,5 @@
+import sys
+
 class Reverse:
     def __init__(self, data):
         self.data = data
@@ -12,8 +14,15 @@ class Reverse:
         self.index -= 1
         return self.data[self.index]
 
-s = input()
-result = ""
-for char in Reverse(s):
-    result += char
-print(result)
+def main():
+    line = sys.stdin.read().strip()
+    if not line:
+        return
+
+    rev_iter = Reverse(line)
+    for char in rev_iter:
+        print(char, end='')
+    print()
+
+if __name__ == "__main__":
+    main()
